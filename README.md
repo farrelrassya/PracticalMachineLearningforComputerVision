@@ -1,4 +1,4 @@
-# PracticalMachineLearningforComputerVision
+# Practical Machine Learning for Computer Vision
 Practical Machine  Learning for  Computer Vision End-to-End Machine Learning for Images
 
 This practical book shows you how to employ machine learning models to extract information from images. ML engineers and data scientists will learn proven ML techniques to solve a variety of image problems, including classification, object detection, autoencoders, image generation, counting, and captioning. 
